@@ -4,11 +4,11 @@ Plugin Name: Visitor Stats
 Plugin URI: http://www.wpdownloadmanager.com/
 Description: Real-time stats for your wordpress site.
 Author: Shaon
-Version: 1.0.0
+Version: 1.0.1
 Author URI: http://www.wpdownloadmanager.com/
 */
  
- function wpre_install(){
+ function vsw_install(){
     global $wpdb;
     $rand = substr(str_shuffle("1234567890abcdefghijklmnopqrstuvwxyz"),0,12);
     require_once(ABSPATH . 'wp-admin/includes/upgrade.php');    
@@ -147,5 +147,7 @@ Select the position of your screen you want to show the widget:<br/>
 
  add_action("admin_menu","vsw_menu");
  add_action("wp_head","vsw_widget");
+ 
+ register_activation_hook(__FILE__,'vsw_install');
 
 ?>
