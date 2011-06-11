@@ -20,6 +20,29 @@ We know you can't monitor the widget 24/7, so we do that for you. Easily check h
 
 Finally, no stats page is complete without knowing where people come from. Our maps pinpoint the location for every one of your readers -- live, right down to their city!
 
+= Try our other plugin: Download Manager =
+This plugin will help you to manage, track and control file downloads from your wordpress site.
+ 
+= Features =
+*	Control who can access to download
+*	Password protection
+*	Download Counter
+*	control who can user this plugin (author, editor, administrator)
+*	Custom download link icon
+*	Custom link label
+*	shortcode for download link
+*	jquery popup for download page
+*	Tinymce button for short-code embed
+*	Widget for new downloads
+*	Multi-livel Categories
+*	Custom TinyMce Button
+*	Category embed short-code
+*	Advanced server file browser
+*	Detailed Download Stats (coming soon)
+
+Check full details here http://www.wpdownloadmanager.com/
+
+
 
 == Installation ==
 
