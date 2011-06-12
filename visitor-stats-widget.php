@@ -75,7 +75,7 @@ margin:0 10px;
 <div class="wrap">
 <h2>Stats Widget Setup</h2>
 Select the position of your screen you want to show the widget:<br/>
-</div>
+
 <form id="gencontent" method="post">
 <table border="0" cellspacing="2" class="options">
   <tr>
@@ -122,6 +122,29 @@ Select the position of your screen you want to show the widget:<br/>
 </table>
 
 </form>
+
+<h2>My Other Plugins</h2>
+
+<ul>
+<li>
+<img src="https://lh5.googleusercontent.com/-w_BqMviA28A/TfT93lUmhTI/AAAAAAAAAH8/snfSMhZXgKY/s800/download_manager.png" align="left" />
+<h3>Download Manager</h3>
+This plugin will help you to manage, track and control file downloads from your wordpress site. You can set password and set access level any of your downloadable files from your wordpress site. You can add/embed downloadable files anywhere in the post just pasting the embed code inside your post content.
+<br/>
+<br/>
+<div style="font-weight: bold ;">
+<a href="http://www.wpdownloadmanager.com/features/">Features</a> | <a href="http://www.wpdownloadmanager.com/download/">Download</a>
+</div>
+</li>
+<li style="clear: both;"></li>
+<li>
+<img src="http://png-2.findicons.com/files/icons/2107/glossy_waxed_wood/128/wordpress_logo_square_webtreatsetc.png" style="margin-top: -15px;" align="left" />
+<h3>WP Eden</h3>
+Total collection of wp plugins and themes to make your site complete.<br/><br/>
+<b><a href='http://www,wpeden.com'>Check here!</a></b>
+</li>
+</ul>
+
  <script type="text/javascript">
  jQuery('#gencontent input[type=radio]').click(function(){
 	 
@@ -138,6 +161,7 @@ Select the position of your screen you want to show the widget:<br/>
 	 
 	 });
  </script>
+</div>  
 <?php     
  }
  
