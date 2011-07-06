@@ -4,13 +4,13 @@ Plugin Name: Visitor Stats
 Plugin URI: http://www.wpdownloadmanager.com/
 Description: Real-time stats for your wordpress site.
 Author: Shaon
-Version: 1.0.1
+Version: 1.0.2
 Author URI: http://www.wpdownloadmanager.com/
 */
  
  function vsw_install(){
     global $wpdb;
-    $rand = substr(str_shuffle("1234567890abcdefghijklmnopqrstuvwxyz"),0,12);
+    $rand = substr(str_shuffle("1234567890abcdefghijklmnopqrstuvwxyz32423423423"),0,12);
     require_once(ABSPATH . 'wp-admin/includes/upgrade.php');    
     update_option('siteid',$rand);      
      
@@ -32,7 +32,7 @@ Author URI: http://www.wpdownloadmanager.com/
 ?>
 
 
-<!--//-->
+<!-- // -->
 <style type="text/css">
 .options{}
 

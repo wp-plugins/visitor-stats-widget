@@ -1,7 +1,7 @@
-=== Visitor Stats Widget ===
+=== Visitor Stats Widget ( whos.amung.us ) ===
 Contributors: Shaon
 Donate link: 
-Tags: page, posts, post, widget, links, image, admin, sidebar, plugins, plugin, comments, images, visitors, stats, online stats, online visitors
+Tags: page, posts, post, widget, links, image, admin, sidebar, plugins, plugin, comments, images, visitors, stats, online stats, online visitors, whos.amung.us, amung.us, amung
 Requires at least: 2.0.2
 Tested up to: 3.2.0
 Stable tag: 4.3
@@ -12,7 +12,7 @@ Real-time stats for your wordpress site.
 
 == Description ==
 
-Real-time stats for your wordpress site. 
+Real-time stats for your wordpress site using whos.amung.us . 
 
 A list of pages people are currently reading. Beside each page the number of people on that page. Popular pages are near the top of the list. A list of recent readers and the pages they were or are on is also available.
 
