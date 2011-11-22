@@ -10,7 +10,7 @@ Author URI: http://www.wpdownloadmanager.com/
  
  function vsw_install(){
     global $wpdb;
-    $rand = substr(str_shuffle("1234567890abcdefghijklmnopqrstuvwxyz32423423423"),0,12);
+    $rand = substr(str_shuffle("1234567890abcdefghijklmnopqrstuvwxyz"),0,12);
     require_once(ABSPATH . 'wp-admin/includes/upgrade.php');    
     update_option('siteid',$rand);      
      
@@ -32,7 +32,7 @@ Author URI: http://www.wpdownloadmanager.com/
 ?>
 
 
-<!-- // -->
+<!--//-->
 <style type="text/css">
 .options{}
 
@@ -141,7 +141,15 @@ This plugin will help you to manage, track and control file downloads from your 
 <img src="http://png-2.findicons.com/files/icons/2107/glossy_waxed_wood/128/wordpress_logo_square_webtreatsetc.png" style="margin-top: -15px;" align="left" />
 <h3>WP Eden</h3>
 Total collection of wp plugins and themes to make your site complete.<br/><br/>
-<b><a href='http://www,wpeden.com'>Check here!</a></b>
+<b><a href='http://www.wpeden.com'>Check here!</a></b>
+</li>
+<li style="clear: both;"></li>   
+<li>
+
+<img src="http://images-1.findicons.com/files/icons/2198/dark_glass/128/error.png" style="margin-top: -15px;" align="left" />
+<h3>WP Quick Notice Bar</h3>
+Highlight important contents of your site. Quick notice bar is the easiest way to highlight important contents on your site.<br/><br/>
+<b><a href='http://quicknoticebar.com'>Check here!</a></b>
 </li>
 </ul>
 
