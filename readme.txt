@@ -12,15 +12,15 @@ Real-time stats for your wordpress site.
 
 == Description ==
 
-Real-time stats for your wordpress site. 
-
-A list of pages people are currently reading. Beside each page the number of people on that page. Popular pages are near the top of the list. A list of recent readers and the pages they were or are on is also available.
+Real-time stats for your wordpress site. A list of pages people are currently reading. Beside each page the number of people on that page. Popular pages are near the top of the list. A list of recent readers and the pages they were or are on is also available.
 
 We know you can't monitor the widget 24/7, so we do that for you. Easily check how many people were simultaneously on your site, down to the hour.
 
 Finally, no stats page is complete without knowing where people come from. Our maps pinpoint the location for every one of your readers -- live, right down to their city!
 
-
+= My Other Plugins =
+* http://www.wpdownloadmanager.com/
+* http://quicknoticebar.com
 
 == Installation ==
 
