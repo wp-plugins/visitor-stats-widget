@@ -18,9 +18,7 @@ We know you can't monitor the widget 24/7, so we do that for you. Easily check h
 
 Finally, no stats page is complete without knowing where people come from. Our maps pinpoint the location for every one of your readers -- live, right down to their city!
 
-= My Other Plugins =
-* http://www.wpdownloadmanager.com/
-* http://quicknoticebar.com
+ 
 
 == Installation ==
 
