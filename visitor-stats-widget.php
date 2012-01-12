@@ -4,7 +4,7 @@ Plugin Name: Visitor Stats
 Plugin URI: http://www.wpdownloadmanager.com/
 Description: Real-time stats for your wordpress site.
 Author: Shaon
-Version: 1.0.2
+Version: 1.5.0
 Author URI: http://www.wpdownloadmanager.com/
 */
  
@@ -51,25 +51,15 @@ margin:0 10px;
 }
 
 .optioncontainerL
-{
-	
-	
-	
-	
-	
-	background:#FFFF99;}
+{background:#FFFF99;}
 	
 	
 .optioncontainerB
-{
-	
-	background:#CCFFCC;}	
+{background:#CCFFCC;}	
 	
 	
 .optioncontainerR
-{
-	
-	background:#99CCFF;}	
+{background:#99CCFF;}	
 
 </style>
 <div class="wrap">
@@ -160,9 +150,6 @@ Highlight important contents of your site. Quick notice bar is the easiest way t
 	 
 	 $img = jQuery(this).val();
 	 $url = '../wp-content/plugins/visitor-stats-widget/images/';
-	 
-	 
-	 
 	 
 	 jQuery('#previewthumb').attr('src',$url+$img+'.png');
 	 
