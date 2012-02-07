@@ -1,6 +1,6 @@
 === Visitor Stats Widget ===
 Contributors: Shaon
-Donate link: http://wpeden.com 
+Donate link:  
 Tags: page, posts, post, widget, links, image, admin, sidebar, plugins, plugin, comments, images, visitors, stats, online stats, online visitors
 Requires at least: 2.0.2
 Tested up to: 3.2.0
